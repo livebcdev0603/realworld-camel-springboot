@@ -1,22 +1,5 @@
-# ![RealWorld Example App](logo.png)
 
-## [Apache Camel](https://camel.apache.org/) codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
-
-
-## [RealWorld](https://github.com/gothinkster/realworld)
-
-
-This codebase was created to demonstrate a fully fledged backend
-application built with **Apache Camel** including CRUD operations, 
-authentication, routing, pagination, and more.
-
-I've gone to great lengths to adhere to the **Apache Camel** community 
-styleguides & best practices.
-
-For more information on how to this works with other frontends/backends,
-head over to the [RealWorld](https://github.com/gothinkster/realworld) 
-repo.
-
+## [Apache Camel] codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld] spec and API.
 
 # How it works
 
