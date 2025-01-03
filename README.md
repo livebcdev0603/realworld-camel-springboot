@@ -1,7 +1,7 @@
 
-## [Apache Camel] codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld] spec and API.
+## Apache Camel codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 
-# How it works
+### How it works
 
 This is an Apache Camel application working in a Spring Boot environment.
 Although it was tested only with Hibernate and H2, it should work with any
