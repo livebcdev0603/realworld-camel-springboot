@@ -109,7 +109,7 @@ instead of the Hibernate dependency. Also, you probably need to update
 the `application.yml` file. To change the database, change the dependency
 in the `pom.xml` file and update the `application.yml` file as well.
 
-# What's next
+### What's next
 
 The implementation is complete with the spec, though it probably contains a fair share of bugs,
 I will definitely be fixing them when found.
